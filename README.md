@@ -9,7 +9,7 @@ The ML model used in this project was been built using Convolutional Neural Netw
 Tensorflow and keras are also majorly used in the project's development. \
 The data processing and image augmentation are done using the Keras deep-learning framework. \
 Images of diverse potato plant leaves, both diseased and healthy once, were included in the dataset used in this study. \
- Dataset source: `[potato leaf disease dataset on Kaggle]`(https://www.kaggle.com/arjuntejaswi/plant-village).
+ Dataset source: [`potato leaf disease dataset on Kaggle`](https://www.kaggle.com/arjuntejaswi/plant-village). 
 
 The training & testing portion of this project has been performed using `Google Collab` \
 And the frontend(Webpage) has been developed using Python library: `Streamlit`
