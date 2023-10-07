@@ -14,7 +14,6 @@ The training & testing portion of this project has been performed using `Google 
 And the frontend(Webpage) has been developed using Python library: `Streamlit`
 
 # Output of our project:
-![GitHub Logo](project_result_pic/result_pic_1.jpg) 
-![GitHub Logo](project_result_pic/result_pic_2.jpg)
-![GitHub Logo](project_result_pic/result_pic_5.jpg)
-![GitHub Logo](project_result_pic/result_pic_6.jpg)
+![GitHub Logo](project_result_pic/image4.png) 
+![GitHub Logo](project_result_pic/image8.png)
+![GitHub Logo](project_result_pic/image9.png)
